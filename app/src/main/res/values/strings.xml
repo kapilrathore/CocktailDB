@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CocktailDB</string>
+    <string name="title_activity_cocktail_list">CocktailListActivity</string>
 </resources>
